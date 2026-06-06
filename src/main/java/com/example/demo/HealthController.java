@@ -11,7 +11,7 @@ public class HealthController {
     public Map<String, String> health() {
         return Map.of(
             "status", "ok",
-            "message", "Portfolio API is running"
+            "message", "Portfolio API　V2 is running"
         );
     }
-}
+}“
